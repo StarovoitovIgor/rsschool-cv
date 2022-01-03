@@ -6,9 +6,11 @@
 - __[LinkedIn](https://www.linkedin.com/in/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%D1%82%D0%BE%D0%B2-05b648214/)__
 ---
 ## About myself:
-    First I encountered front-end development during web application testing courses.
-    I was interested in this direction as the result of the work is visible in the course of its implementation.
-    And most importantly, frontend development is constantly evolving.
+
+First I encountered front-end development during web application testing courses.
+I was interested in this direction as the result of the work is visible in the course of its implementation.
+And most importantly, frontend development is constantly evolving.
+
 ---
 ## Code Examples:
 ```
